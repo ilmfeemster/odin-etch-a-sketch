@@ -4,9 +4,8 @@
     border: 1px black solid;
 }
 
-.cell:hover {
-    background-color: blue;
-}
 .row {
     display: flex;
+    max-width: 960px;
+    max-height: 960px;
 }
